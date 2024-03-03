@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Guía de Viajes'),
+        title: Text('Guía para  vivir mejor'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),

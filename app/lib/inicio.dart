@@ -6,7 +6,7 @@ class Inicio extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Guía de Viajes'),
+        title: Text('Agenda de terapia'),
       ),
       body: Container(
         // Contenido de Inicio

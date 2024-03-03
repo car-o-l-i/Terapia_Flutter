@@ -7,7 +7,7 @@ class PantallaPrincipal extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Destinos Turísticos'),
+        title: Text('Tipos de terapia'),
       ),
       body: Container(
         // Contenido de PantallaPrincipal

@@ -5,7 +5,7 @@ class PantallaDetalles extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Detalles del Destino'),
+        title: Text('Detalles de la cita'),
       ),
       body: Container(
         child: Column(
